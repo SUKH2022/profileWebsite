@@ -1,4 +1,4 @@
-# 🌟 ASSIGNMENT01 - Personal Portfolio 🌟
+# 🌟 Personal Portfolio 🌟
 
 Welcome to my Personal Portfolio site! This project showcases my skills, projects, and achievements. It's built using Node.js with Express and Handlebars (HBS) as the view engine. The site is divided into four main sections: Home, About Me, Projects, and Contact Me.
 
